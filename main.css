@@ -58,6 +58,11 @@ hr {
   margin-right: 50px;
 }
 
+.centered-content {
+  max-width: 800px;
+  margin: auto;
+}
+
 @media (max-width: 800px) {
   .container {
     flex-direction: column;
